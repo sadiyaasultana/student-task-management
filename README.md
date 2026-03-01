@@ -38,25 +38,17 @@ Open the project folder in VS Code
 Open index.html in a browser
 (You can use Live Server for better experience)
 
-Use Case
-This project is useful for:
+## Use Case - This project is useful for:
 
 Students managing daily academic tasks
-
 Beginners learning JavaScript DOM manipulation
-
 Demonstrating frontend development skills for placements
 
-Learning Outcomes
-
+## Learning Outcomes
 DOM manipulation using JavaScript
-
 Event handling and dynamic UI updates
-
 Local Storage usage
-
 Writing clean and structured frontend code
-
 Using Git & GitHub for version control
 
 👩‍💻 Author
@@ -72,5 +64,3 @@ LinkedIn: https://www.linkedin.com/in/sadiya-sultana-22576a2b9
 📜 License
 
 This project is open-source and available for educational use.
-
-## ✅ HOW TO ADD README.md TO GITHUB (STEP-
