@@ -41,14 +41,20 @@ Open index.html in a browser
 ## Use Case - This project is useful for:
 
 Students managing daily academic tasks
+
 Beginners learning JavaScript DOM manipulation
+
 Demonstrating frontend development skills for placements
 
 ## Learning Outcomes
 DOM manipulation using JavaScript
+
 Event handling and dynamic UI updates
+
 Local Storage usage
+
 Writing clean and structured frontend code
+
 Using Git & GitHub for version control
 
 👩‍💻 Author
